@@ -1,0 +1,21 @@
+
+Gsquid:S1444"+Make this "public static queue" field final(’Ü‹¼8£ıÒù+
+9squid:S2386"Make this member "protected".(’Ü‹¼8£ıÒù+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ãÙöÿÿÿÿÿ8˜¼™›û+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Á˜ô8á…ô•û+
+zsquid:S1450"^Remove the "executorService" field and declare it as a local variable in the relevant methods.(ğââ¿8±ØÇ”û+
+Isquid:S1125"(Remove the literal "true" boolean value.(šÕÛºÿÿÿÿÿ8¸×Éû+
+qsquid:S3008"PRename this field "Liftz" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ì˜ıÿÿÿÿ8£¸û”û+
+„"squid:ClassVariableVisibilityCheck"QMake queue a static final constant or non-public and provide accessors if needed.(’Ü‹¼8£ıÒù+
+Dsquid:S1125"(Remove the literal "true" boolean value.(Ô¾ªş8¦Ø‰Éû+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¹Ôñº8­áñÈû+
+<squid:S2386" Make member "Liftz" "protected".(²Üª 8£¸û”û+
+>squid:S2386"Make this member "protected".(¥Óéªşÿÿÿÿ8†æùéù+
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¹Ôñº8­áñÈû+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ù®İ8ĞèâËû+
+Osquid:S1444".Make this "public static position" field final(¥Óéªşÿÿÿÿ8ù€ú¨ù+
+Lsquid:S1444"+Make this "public static Liftz" field final(˜Ì˜ıÿÿÿÿ8£¸û”û+
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÊôK
+‰"squid:ClassVariableVisibilityCheck"QMake Liftz a static final constant or non-public and provide accessors if needed.(˜Ì˜ıÿÿÿÿ8£¸û”û+
+Œ"squid:ClassVariableVisibilityCheck"TMake position a static final constant or non-public and provide accessors if needed.(¥Óéªşÿÿÿÿ8ù€ú¨ù+

@@ -1,0 +1,12 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Û¨…é™,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ôÑâþÿÿÿÿ8Û¨…é™,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»†Áã8Û¨…é™,
+Gsquid:S1481"&Remove this unused "a" local variable.(¹š«Íýÿÿÿÿ8‡Ç…é™,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡áº´úÿÿÿÿ
+Vsquid:S1854"5Remove this useless assignment to local variable "b".(òô¤Øýÿÿÿÿ8‡Ç…é™,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îü¦û8Û¨…é™,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ó‡´úÿÿÿÿ8‡Ç…é™,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼íçâ8Û¨…é™,
+Gsquid:S1481"&Remove this unused "b" local variable.(òô¤Øýÿÿÿÿ8‡Ç…é™,
+Vsquid:S1854"5Remove this useless assignment to local variable "a".(¹š«Íýÿÿÿÿ8‡Ç…é™,

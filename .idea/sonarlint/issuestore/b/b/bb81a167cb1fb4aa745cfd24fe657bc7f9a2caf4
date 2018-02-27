@@ -1,0 +1,15 @@
+
+>squid:S2386"Make this member "protected".(Ûë•ðüÿÿÿÿ8øûš€‡,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡Èªú
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(’›ñª8œž¸‰‡,
+Jsquid:S1125")Remove the literal "false" boolean value.(â¸Ššûÿÿÿÿ8›’Ù‰‡,
+Jsquid:S1444")Make this "public static map" field final(Ûë•ðüÿÿÿÿ8øûš€‡,
+‡"squid:ClassVariableVisibilityCheck"OMake map a static final constant or non-public and provide accessors if needed.(Ûë•ðüÿÿÿÿ8·Òš€‡,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïƒÓ€ùÿÿÿÿ8ÎºÃ‰‡,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8—¯È”‡,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Ë‚‚8Î˜ˆ‰‡,
+Dsquid:S1125"(Remove the literal "true" boolean value.(ŸÀØþ8Ìäú‚‡,

@@ -1,0 +1,30 @@
+
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ô²½şÿÿÿÿ8Ö¦®µş+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ÀÕ´8æ˜ ¶ş+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùàèü8È¨Ã´ş+
+Jsquid:S1125")Remove the literal "false" boolean value.(§Èûÿÿÿÿ8„—€¶ş+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µŸ¬àıÿÿÿÿ8¡¨°µş+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÑ†·øÿÿÿÿ8¡¨°µş+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(éô¨>8³ı³´ş+
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(¹¥«Šùÿÿÿÿ8„—€¶ş+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¿‡ûÿÿÿÿÿ8È‹¹´ş+
+Isquid:S1481"(Remove this unused "map" local variable.(ùÏ±‹úÿÿÿÿ8ÌÅ‹¶ş+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³Èµ‘ûÿÿÿÿ8£¦Ğµş+
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÌîŸğÿÿÿÿÿ8ùÄí³ş+
+Isquid:S1125"(Remove the literal "true" boolean value.(¹¥«Šùÿÿÿÿ8È¨Ã´ş+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(éô¨>8Û§¸´ş+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¿‡ûÿÿÿÿÿ8µÑƒ´ş+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ìÚåùÿÿÿÿ8áß®´ş+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "line " 7 times.(“½³ô8°É¼µş+
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(³˜Æÿ8õ»Ñµş+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“½³ô8¯¿ú´ş+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.( µî¾ûÿÿÿÿ
+Xsquid:S1854"7Remove this useless assignment to local variable "map".(ùÏ±‹úÿÿÿÿ8ÌÅ‹¶ş+

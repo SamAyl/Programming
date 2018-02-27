@@ -1,0 +1,7 @@
+
+‚"squid:ClassVariableVisibilityCheck"QMake floor a static final constant or non-public and provide accessors if needed.(´ÂÈ¡øÿÿÿÿ
+>squid:S2140")Use "java.util.Random.nextInt()" instead.(ò á
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(„ç¦Åıÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"OMake dir a static final constant or non-public and provide accessors if needed.(Û˜…Úÿÿÿÿÿ
+Usquid:S1226"@Introduce a new variable instead of reusing the parameter "dir".(¸èê
+Zsquid:S1226"@Introduce a new variable instead of reusing the parameter "dir".(ÕÉ¡Ûıÿÿÿÿ

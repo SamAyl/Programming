@@ -1,0 +1,7 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä€­Ïúÿÿÿÿ8ÙÈˆ’,
+"squid:ClassVariableVisibilityCheck"MMake a a static final constant or non-public and provide accessors if needed.(Å“ée8é¿ø’,
+8squid:S2386"Make this member "protected".(Å“ée8é¿ø’,
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ƒ­í&
+Bsquid:S1444"'Make this "public static a" field final(Å“ée8é¿ø’,

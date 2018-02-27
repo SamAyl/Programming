@@ -1,0 +1,10 @@
+
+‡"squid:ClassVariableVisibilityCheck"OMake map a static final constant or non-public and provide accessors if needed.(Üúµşúÿÿÿÿ8ûÑ¢Ì‘,
+†"squid:ClassVariableVisibilityCheck"SMake maxList a static final constant or non-public and provide accessors if needed.(äá²´8‚³ÜÌ‘,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8ËÅîÌ‘,
+9squid:S2386"Make this member "protected".(äá²´8‚³ÜÌ‘,
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ƒ­í&
+Isquid:S1444"-Make this "public static maxList" field final(äá²´8‚³ÜÌ‘,
+Jsquid:S1444")Make this "public static map" field final(Üúµşúÿÿÿÿ8ûÑ¢Ì‘,
+>squid:S2386"Make this member "protected".(Üúµşúÿÿÿÿ8ûÑ¢Ì‘,

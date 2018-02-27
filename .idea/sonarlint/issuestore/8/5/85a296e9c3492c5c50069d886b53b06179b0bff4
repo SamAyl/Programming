@@ -1,0 +1,8 @@
+
+ƒ"squid:ClassVariableVisibilityCheck"PMake root a static final constant or non-public and provide accessors if needed.(ƒëä¢8²ú³õŒ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8—ûØõŒ,
+Gsquid:S1444"+Make this "public static count" field final(ëª™Š8±ˆ¢õŒ,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ÿ¤—æ
+„"squid:ClassVariableVisibilityCheck"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š8±ˆ¢õŒ,
+Fsquid:S1444"*Make this "public static root" field final(ƒëä¢8²ú³õŒ,

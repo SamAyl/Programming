@@ -1,0 +1,20 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò¾Ü¡8áè›Ìû+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÿÜ8îÚÇÉû+
+‡"squid:ClassVariableVisibilityCheck"OMake dir a static final constant or non-public and provide accessors if needed.(Û˜…Úÿÿÿÿÿ8ÌÓ•¨ù+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ’ÙŒüÿÿÿÿ8å“£Éû+
+ˆ"squid:ClassVariableVisibilityCheck"UMake minfloors a static final constant or non-public and provide accessors if needed.(••¿¿8«ÿ•û+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“–ýþ8¨îÓ—û+
+‡"squid:ClassVariableVisibilityCheck"TMake floorEnd a static final constant or non-public and provide accessors if needed.(ÕŠÕá8õÒÜÒù+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¦þ‡øÿÿÿÿ8‘Í¥›û+
+"squid:ClassVariableVisibilityCheck"XMake floorCurrent a static final constant or non-public and provide accessors if needed.(–•—úÿÿÿÿ8¨ˆÙÒù+
+tsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¦¦¥8‘Í¥›û+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8áè›Ìû+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃþÄÓ8‘Í¥›û+
+ˆ"squid:ClassVariableVisibilityCheck"UMake maxfloors a static final constant or non-public and provide accessors if needed.(­³îÇ8«ÿ•û+
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÊôK
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‘Í¥›û+

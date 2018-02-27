@@ -1,0 +1,15 @@
+
+fsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Å¡#
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ˆøıõ
+Nsquid:S1854"9Remove this useless assignment to local variable "uncle".(ËôâÆ
+Nsquid:S1854"9Remove this useless assignment to local variable "uncle".(ËôâÆ
+Dsquid:S1172"*Remove this unused method parameter "ggp".(ëÄËÑûÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¨ İ›
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëæ›¿úÿÿÿÿ
+Dsquid:S1481"*Remove this unused "uncle" local variable.(Ğ°¦›ıÿÿÿÿ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ÜŸ•
+Nsquid:S1854"9Remove this useless assignment to local variable "uncle".(²ˆ„Ñ
+Nsquid:S1854"9Remove this useless assignment to local variable "uncle".(²ˆ„Ñ
+Rsquid:S1854"8Remove this useless assignment to local variable "root".(¸áãØùÿÿÿÿ
+Dsquid:S1172"*Remove this unused method parameter "ggp".(¨ÇÌÖüÿÿÿÿ

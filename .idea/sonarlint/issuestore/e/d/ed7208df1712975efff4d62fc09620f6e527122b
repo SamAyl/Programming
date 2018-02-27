@@ -1,0 +1,9 @@
+
+[squid:S1854"?Remove this useless assignment to local variable "resultCount".(Íšè8è€•–,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Óû³ö
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â™Ô†8¦•û•,
+Zsquid:S1854"9Remove this useless assignment to local variable "sizeR".(•úœÍûÿÿÿÿ8¸Ø‘–,
+[squid:S1854"?Remove this useless assignment to local variable "resultCount".(Íšè8¸Ø‘–,
+Usquid:S1854"9Remove this useless assignment to local variable "sizeL".(üºİ8è€•–,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÕêåşÿÿÿÿ8âø—–,

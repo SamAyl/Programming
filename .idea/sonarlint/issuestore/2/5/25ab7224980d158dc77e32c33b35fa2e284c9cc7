@@ -1,0 +1,6 @@
+
+†"squid:ClassVariableVisibilityCheck"SMake zipCode a static final constant or non-public and provide accessors if needed.(ó›•Ş8±í„¸š,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Š
+Š"squid:ClassVariableVisibilityCheck"WMake theatreList a static final constant or non-public and provide accessors if needed.(ö–Å³8ÕÚÊãš,
+ˆ"squid:ClassVariableVisibilityCheck"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8±í„¸š,
+†"squid:ClassVariableVisibilityCheck"SMake country a static final constant or non-public and provide accessors if needed.(Ø¬8±í„¸š,

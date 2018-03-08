@@ -1,0 +1,8 @@
+
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(‚œÅ€øÿÿÿÿ8Í•Ñ­Ÿ,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(òî¬Ä
+csquid:UselessImportCheck"5Remove this unused import 'sun.misc.InnocuousThread'.(‚œÅ€øÿÿÿÿ8Í•Ñ­Ÿ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8Í•Ñ­Ÿ,
+asquid:UselessImportCheck"3Remove this unused import 'Lambdas.Functional.Int'.(›¯¥²ûÿÿÿÿ8Í•Ñ­Ÿ,
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8›ðÎ­Ÿ,

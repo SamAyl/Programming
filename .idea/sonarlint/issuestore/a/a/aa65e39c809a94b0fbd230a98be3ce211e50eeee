@@ -1,16 +1,16 @@
 
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ŠÙ»,
-Jsquid:S1444")Make this "public static map" field final(ıë£ÿÿÿÿÿ8ÿóÿœ,
->squid:S2386"Make this member "protected".(ıë£ÿÿÿÿÿ8ÿóÿœ,
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¤îûÿÿÿÿ
-‡"squid:ClassVariableVisibilityCheck"OMake map a static final constant or non-public and provide accessors if needed.(ıë£ÿÿÿÿÿ8ÿóÿœ,
-3squid:S1700"Rename field "sum"(Ó‰êÁûÿÿÿÿ8Ş½óÿœ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ñù8¹®‚,
-_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ò¼Êèıÿÿÿÿ8ÆÆè,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8Ş½óÿœ,
 Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Å„‡•8¦Ô«‚,
+‡"squid:ClassVariableVisibilityCheck"OMake map a static final constant or non-public and provide accessors if needed.(ıë£ÿÿÿÿÿ8ÿóÿœ,
+>squid:S2386"Make this member "protected".(ıë£ÿÿÿÿÿ8ÿóÿœ,
+3squid:S1700"Rename field "sum"(Ó‰êÁûÿÿÿÿ8Ş½óÿœ,
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ò¼Êèıÿÿÿÿ8ÆÆè,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(È£³‰8ŠÙ»,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÌäãÛşÿÿÿÿ8ì…¯‚,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(È£³‰8ŠÙ»,
+Jsquid:S1444")Make this "public static map" field final(ıë£ÿÿÿÿÿ8ÿóÿœ,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¤îûÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ŠÙ»,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ñù8¹®‚,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8Ş½óÿœ,

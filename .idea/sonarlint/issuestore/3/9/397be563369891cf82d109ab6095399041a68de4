@@ -1,0 +1,5 @@
+
+asquid:UselessImportCheck"3Remove this unused import 'Lambdas.Functional.Int'.(›¯¥²ûÿÿÿÿ8å’¹¤,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(§íÎùÿÿÿÿ
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(´ß‘\8İš¹¤,

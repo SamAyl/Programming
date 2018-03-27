@@ -1,10 +1,12 @@
 package Clone;
 
-import java.util.List;
+import java.util.LinkedList;
+
 
 public class Node {
 
     public int value;
+    LinkedList<Integer> children = new LinkedList<>();
 
 
     public Node(int value){

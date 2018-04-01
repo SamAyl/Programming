@@ -1,11 +1,11 @@
 
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(«¥×
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(™÷Û8’ñÌ¬¤,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ¼¿·8’ñÌ¬¤,
-psquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(ò¼˜8’ñÌ¬¤,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¿¹’¹8’ñÌ¬¤,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(éËö–øÿÿÿÿ8’ñÌ¬¤,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿¹’¹8’ñÌ¬¤,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™÷Û8’ñÌ¬¤,
+psquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(ò¼˜8’ñÌ¬¤,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(«¥×
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ¼¿·8’ñÌ¬¤,

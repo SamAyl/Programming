@@ -1,7 +1,7 @@
 
-‡"squid:ClassVariableVisibilityCheck"TMake capacity a static final constant or non-public and provide accessors if needed.(Ë»¢…8‘×ŽÇ˜,
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò¿ç¼8Á´³È˜,
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªªš8äÝÔÈ˜,
-Qsquid:S1751"5Remove this "break" statement or make it conditional.(›ûä·8¾™ÏÈ˜,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Õ±š8Á´³È˜,
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(’¯Ýó
+Qsquid:S1751"5Remove this "break" statement or make it conditional.(›ûä·8¾™ÏÈ˜,
+‡"squid:ClassVariableVisibilityCheck"TMake capacity a static final constant or non-public and provide accessors if needed.(Ë»¢…8‘×ŽÇ˜,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Õ±š8Á´³È˜,

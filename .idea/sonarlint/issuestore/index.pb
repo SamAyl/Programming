@@ -201,3 +201,11 @@ M
 src/SymmetricalTree/Tree.java,7/d/7d38b1e91b98a3253af184d2fe32adb93cbddacb
 H
 src/LeetCode/TwoNum.java,6/6/66af9d8de65e3b5be4c98dc9d09404155ff03e93
+R
+"src/LeetCode/LongestSubString.java,c/a/ca1a343dea988e19c43b3b3a0b178bf81f2b5f84
+S
+#src/LeetCode/LongestPalindrome.java,6/1/61511e704b4f60d15f44799261196fb36dff274b
+M
+src/LeetCode/EqualSubSet.java,2/e/2e410d0661cfe4e42d0c7ff69754759180fd7bca
+J
+src/LeetCode/EqualSum.java,8/a/8a37c63f266363c6ddd45b29a657de506da972c6

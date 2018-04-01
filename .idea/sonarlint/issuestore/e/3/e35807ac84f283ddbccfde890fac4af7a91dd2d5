@@ -1,5 +1,5 @@
 
-isquid:S00116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€ü¬8ú¯Ä¦ ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çé’–þÿÿÿÿ8æÿÄ¦ ,
 rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(€‡òÖùÿÿÿÿ
 ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ¡¼ùÿÿÿÿ8Ú›Ç¦ ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çé’–þÿÿÿÿ8æÿÄ¦ ,
+isquid:S00116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€ü¬8ú¯Ä¦ ,

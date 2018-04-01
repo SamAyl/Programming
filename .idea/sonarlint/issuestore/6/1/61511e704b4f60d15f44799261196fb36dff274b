@@ -1,0 +1,6 @@
+
+Dsquid:S1481"(Remove this unused "val" local variable.(ÏÃò©8êäû §,
+Ssquid:S1854"7Remove this useless assignment to local variable "val".(ÏÃò©8êäû §,
+Isquid:S1481"-Remove this unused "maxCount" local variable.(ºËÒÇ8íœ›¡§,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡áº´úÿÿÿÿ
+Fsquid:S00108")Either remove or fill this block of code.(ˆàô8ÁæŒ¡§,

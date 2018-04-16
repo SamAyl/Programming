@@ -9,38 +9,73 @@ public class LongestPalindrome {
 
     public static void main(String[] args){
 
-        int val = getLongestPalindrom("abcd");
+        System.out.println(getLongestPalindrom("abcd"));
     }
 
 
-    public static int getLongestPalindrom(String s){
-        Map<Character,List<Integer>> map = new HashMap<>();
-        makeMap(map,s);
-        int maxCount = 1;
+    public static String getLongestPalindrom(String s){
+        Map<Integer,List<Boolean>> map = new HashMap<>();
+        int index = 0;
+        int maxLength =0;
+        setMap(map,s);
+        int tempLength1 = getMaxLength(map.get(0));
+        if(maxLength<tempLength1){
+            maxLength = tempLength1;
+            index = 0;
+        }
+        for(int i = 1;i<s.length();i++){
+            List<Boolean> list = new ArrayList<>();
+            list.add(true);
+            map.put(i,list);
+            for(int j =i+1;j<s.length();j++){
+                String tempString = s.substring(i,j+1);
+                if(map.containsKey(i-1)){
 
-        for(Map.Entry<Character,List<Integer>> entry : map.entrySet()){
-            if(entry.getValue().size()>1){
+                    boolean palindrome = map.get(i-1).get(tempString.length());
+                    if(!palindrome){
+                        boolean palindromeCheck = isPalindrome(tempString);
+                        map.get(i).add(palindromeCheck);
+                    }else {
+                        map.get(i).add(false);
+                    }
+                }
+            }
 
+            int tempLength = getMaxLength(map.get(i));
+            if(maxLength<tempLength){
+                maxLength = tempLength;
+                index = i;
+            }
+
+        }
+        return s.substring(index,index+maxLength+1);
+    }
+
+
+    public static int getMaxLength(List<Boolean> booleans){
+        int maxLength = 0;
+        for(int i = booleans.size()-1;i>=0;i--){
+            if(booleans.get(i)==true){
+                maxLength=i;
+                return maxLength;
             }
         }
 
-
-
-        return  -1;
+     return    maxLength;
     }
 
-    public static void makeMap(Map<Character,List<Integer>> map,String s){
-        for(int i = 0;i<s.length();i++){
-            if(map.containsKey(s.charAt(i))){
-                map.get(s.charAt(i)).add(i);
-            }else {
-                List<Integer> list = new ArrayList<>();
-                list.add(i);
-                map.put(s.charAt(i),list);
-            }
+    public static void setMap(Map<Integer,List<Boolean>> map,String s){
+        List<Boolean> list = new ArrayList<>();
+        list.add(true);
+
+
+        for(int i = 1;i<s.length();i++){
+            String s1= s.substring(0,i+1);
+            list.add(isPalindrome(s1));
         }
-    }
 
+        map.put(0,list);
+    }
     public static boolean isPalindrome(String s){
         boolean ispalindrome = true;
         int count=0;

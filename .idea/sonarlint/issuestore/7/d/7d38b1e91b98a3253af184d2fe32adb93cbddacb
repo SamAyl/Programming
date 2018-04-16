@@ -1,7 +1,7 @@
 
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(§íÎùÿÿÿÿ
 “squid:S1319"wThe type of the "arrayDeque" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(ƒï¥8–ˆÊ¸¤,
-]squid:S1126"AReplace this if-then-else statement by a single return statement.(¿âåŸ8Í¾‘¹¤,
 “squid:S1319"wThe type of the "arrayDeque" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(Û£œ÷8Ø©­¸¤,
 Jsquid:S1125")Remove the literal "false" boolean value.(Ìõ‰‚üÿÿÿÿ8„‘¹¤,
 squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç®Ç8Íşœº¤,
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(§íÎùÿÿÿÿ
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(¿âåŸ8Í¾‘¹¤,

@@ -20,7 +20,10 @@ public class Clone {
         n3.neighbours.add(n2);
 
         Clone clone = new Clone();
+        List<Node> nodes =    clone.clone(n1);
 
+        System.out.println(nodes.get(0).neighbours.get(0).value);
+        System.out.println(nodes.get(0).neighbours.get(1).value);
 
 
     }
@@ -29,7 +32,7 @@ public class Clone {
         Set<Node> visitedNodes = new HashSet<>();
         clone(root,visitedNodes);
 
-      return   new ArrayList<>(visitedNodes);
+        return   new ArrayList<>(visitedNodes);
     }
 
     public void clone(Node root,Set<Node> visitedNodes){
@@ -39,7 +42,9 @@ public class Clone {
             visitedNodes.add(cloneNode);
 
             for(Node node : root.neighbours){
+                cloneNode.neighbours.add(node);
                 clone(node,visitedNodes);
+
             }
         }
 

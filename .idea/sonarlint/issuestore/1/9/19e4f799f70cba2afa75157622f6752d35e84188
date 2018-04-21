@@ -1,14 +1,14 @@
 
-Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ãó÷µ›,
-Zsquid:S3516"9Refactor this method to not always return the same value.(æ÷¿ãøÿÿÿÿ8Ù¸¦¶›,
-ksquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û–¬a8ãó÷µ›,
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ü©Ãìøÿÿÿÿ
-asquid:UselessImportCheck"3Remove this unused import 'Lambdas.Functional.Int'.(›¯¥²ûÿÿÿÿ8¹ªÓµ›,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(”õ¥Šÿÿÿÿÿ8†ùÍ´›,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(”õ¥Šÿÿÿÿÿ8…Ÿñ­›,
 Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ãó÷µ›,
-lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ã¦ÒŽ8âßëµ›,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ü©Ãìøÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ãó÷µ›,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(”õ¥Šÿÿÿÿÿ8õÁõ­›,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”õ¥Šÿÿÿÿÿ8†ùÍ´›,
+Zsquid:S3516"9Refactor this method to not always return the same value.(æ÷¿ãøÿÿÿÿ8Ù¸¦¶›,
+asquid:UselessImportCheck"3Remove this unused import 'Lambdas.Functional.Int'.(›¯¥²ûÿÿÿÿ8¹ªÓµ›,
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ã¦ÒŽ8âßëµ›,
+ksquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û–¬a8ãó÷µ›,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”õ¥Šÿÿÿÿÿ8…Ÿñ­›,

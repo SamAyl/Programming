@@ -9,7 +9,7 @@ public class EqualSubSet {
 
     public static void main(String[] args){
 
-        int[] num = {1,2,5};
+        int[] num = {1,5,5,9};
         EqualSubSet equalSubSet = new EqualSubSet();
         System.out.println(equalSubSet.canPartition(num));
     }

@@ -227,3 +227,9 @@ I
 src/Permutations/App.java,e/5/e5eb8f71a240b012675473d76aa9e4624fbe6d80
 A
 src/Zero/App.java,8/9/89e111c1d6b960419c40db5c1d2d6cc6b7791752
+D
+src/Graph/Clone.java,e/8/e81de37bd62b620841f29f8f9df00bf2474766d8
+I
+src/LeetCode/KSubSet.java,3/5/356a803d17a12d58ede0016368a19f4c2f00f461
+O
+src/LeetCode/TreeConstruct.java,1/d/1d54e4b35d968eac68f177ca476948f47a5627f7

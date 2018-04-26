@@ -233,3 +233,7 @@ I
 src/LeetCode/KSubSet.java,3/5/356a803d17a12d58ede0016368a19f4c2f00f461
 O
 src/LeetCode/TreeConstruct.java,1/d/1d54e4b35d968eac68f177ca476948f47a5627f7
+T
+$src/LongestSubStrPalindrome/App.java,a/3/a3fbc251d3c0787408b8ba896b2c9e6583e65fde
+I
+src/SubSequence/App1.java,9/8/98df48470eece006545ca1aabd682d4ae63c7dac

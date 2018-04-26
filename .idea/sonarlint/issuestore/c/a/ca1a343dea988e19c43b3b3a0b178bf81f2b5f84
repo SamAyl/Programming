@@ -1,7 +1,7 @@
 
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(”¾áÿ8¤µ­Õ¦,
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡áº´úÿÿÿÿ
 Xsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ÿÎîÕ¦,
 ˆ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ëóõ×¦,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡áº´úÿÿÿÿ
 Vsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÿÎîÕ¦,

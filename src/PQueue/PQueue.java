@@ -1,6 +1,7 @@
 package PQueue;
 
 import java.util.Comparator;
+import java.util.Iterator;
 import java.util.PriorityQueue;
 
 public class PQueue {
@@ -21,14 +22,18 @@ public class PQueue {
             }
         });
 
-        priorityQueue.add(1);
         priorityQueue.add(100);
-        priorityQueue.add(2);
+        priorityQueue.add(20);
         priorityQueue.add(30);
+        priorityQueue.add(3);
 
-        while (!priorityQueue.isEmpty()){
-            System.out.println(priorityQueue.poll());
+        Iterator<Integer> it = priorityQueue.iterator();
+
+        while (it.hasNext()){
+            System.out.println(it.next());
         }
+
+        System.out.println(priorityQueue.size());
 
 
     }

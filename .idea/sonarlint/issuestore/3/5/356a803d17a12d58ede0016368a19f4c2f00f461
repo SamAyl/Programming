@@ -1,10 +1,10 @@
 
-Ssquid:S1854"8Remove this useless assignment to local variable "list".(ØÈš[8ªâ’®,
-Dsquid:S1481")Remove this unused "list" local variable.(ØÈš[8ªâ’®,
-\squid:S1854";Remove this useless assignment to local variable "visited".(×ˆşÍşÿÿÿÿ8ªâ’®,
-Ksquid:S1481"/Remove this unused "startIndex" local variable.(İÕ¤Ö8®É“®,
-asquid:S1854"ERemove this useless assignment to local variable "maxElementsInASet".(Ä¹Â²8–¨‚®,
 Msquid:S1481",Remove this unused "visited" local variable.(×ˆşÍşÿÿÿÿ8ªâ’®,
+Ksquid:S1481"/Remove this unused "startIndex" local variable.(İÕ¤Ö8®É“®,
 Rsquid:S1481"6Remove this unused "maxElementsInASet" local variable.(Ä¹Â²8–¨‚®,
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡áº´úÿÿÿÿ
+Dsquid:S1481")Remove this unused "list" local variable.(ØÈš[8ªâ’®,
+Ssquid:S1854"8Remove this useless assignment to local variable "list".(ØÈš[8ªâ’®,
+\squid:S1854";Remove this useless assignment to local variable "visited".(×ˆşÍşÿÿÿÿ8ªâ’®,
 Isquid:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ8ªâ’®,
+asquid:S1854"ERemove this useless assignment to local variable "maxElementsInASet".(Ä¹Â²8–¨‚®,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡áº´úÿÿÿÿ

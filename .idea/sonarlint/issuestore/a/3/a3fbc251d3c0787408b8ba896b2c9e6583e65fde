@@ -1,5 +1,5 @@
 
 lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¨‚×)
+\squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Êí”Ì®,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÌäãÛþÿÿÿÿ8ðÅ“Ì®,
-\squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Êí”Ì®,

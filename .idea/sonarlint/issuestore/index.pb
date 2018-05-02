@@ -237,3 +237,9 @@ T
 $src/LongestSubStrPalindrome/App.java,a/3/a3fbc251d3c0787408b8ba896b2c9e6583e65fde
 I
 src/SubSequence/App1.java,9/8/98df48470eece006545ca1aabd682d4ae63c7dac
+E
+src/ZigZagBT/App.java,e/7/e7a02c300e30c19f5d4e45f5df14b7106cdb6247
+G
+src/EncodedStr/App.java,9/9/99a6d3658d56efec4fc8e3a2e17fc1397590f914
+B
+src/Skies/App.java,3/f/3f723ad39b830c76009c34434a3839896a76b725

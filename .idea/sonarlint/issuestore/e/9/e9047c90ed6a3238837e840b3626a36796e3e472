@@ -1,6 +1,6 @@
 
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡αΊ΄ϊÿÿÿÿ
-Isquid:S1481"(Remove this unused "num" local variable.(†¬›Δϋÿÿÿÿ8ύσ“Π¨,
+Fsquid:S00108")Either remove or fill this block of code.(γιΊ¦8Β‰Π¨,
 Jsquid:S1481")Remove this unused "size" local variable.(Η‡ξµϋÿÿÿÿ8Β‰Π¨,
 Ysquid:S1854"8Remove this useless assignment to local variable "size".(Η‡ξµϋÿÿÿÿ8Β‰Π¨,
-Fsquid:S00108")Either remove or fill this block of code.(γιΊ¦8Β‰Π¨,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡αΊ΄ϊÿÿÿÿ
+Isquid:S1481"(Remove this unused "num" local variable.(†¬›Δϋÿÿÿÿ8ύσ“Π¨,

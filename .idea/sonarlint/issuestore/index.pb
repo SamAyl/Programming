@@ -173,8 +173,6 @@ C
 src/CubeDP/App.java,d/2/d2f09c3ac30062cf48859ec931e843ed90b9c16d
 H
 src/NumberSumDP/App.java,a/a/aa65e39c809a94b0fbd230a98be3ce211e50eeee
-C
-src/KMerge/App.java,6/8/68963463e7b0299798aedca58ac97ea32758cb2c
 N
 src/ZigZagIterator/ZigZag.java,9/9/9900cb2176e5576fef12780e28f6d4b9f2805bb6
 I
@@ -243,3 +241,9 @@ G
 src/EncodedStr/App.java,9/9/99a6d3658d56efec4fc8e3a2e17fc1397590f914
 B
 src/Skies/App.java,3/f/3f723ad39b830c76009c34434a3839896a76b725
+H
+src/Kmerge/Solution.java,1/8/188532d72781cf1bbc33bcf76bd0ef994908a9aa
+E
+src/KLargest/App.java,0/6/068d6afd7ece8ac0dfe3b509b50f8e1ac0c4eab0
+B
+src/Permu/App.java,4/d/4d182d1231a6b3aa1aeaf60ee549673f00ff9ed7

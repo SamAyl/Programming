@@ -247,3 +247,9 @@ E
 src/KLargest/App.java,0/6/068d6afd7ece8ac0dfe3b509b50f8e1ac0c4eab0
 B
 src/Permu/App.java,4/d/4d182d1231a6b3aa1aeaf60ee549673f00ff9ed7
+E
+src/ThreeSum/App.java,b/d/bd0e49fa89c3d616d28ea127c39ac797ec33bb1e
+E
+src/Triangle/App.java,b/9/b939ba81a054624b40eca23d187c874ff8b45c25
+G
+src/Duplicates/App.java,7/3/73884f12560e3b4df0940c6bd5eb162eeae699ad

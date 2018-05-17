@@ -253,3 +253,15 @@ E
 src/Triangle/App.java,b/9/b939ba81a054624b40eca23d187c874ff8b45c25
 G
 src/Duplicates/App.java,7/3/73884f12560e3b4df0940c6bd5eb162eeae699ad
+C
+src/PriQue/App.java,3/d/3d3369b4ce190ba8ae2c99c089f1467dfdb084c2
+I
+src/CTCI/SortedMerge.java,8/8/882e0347d980512671f00c8acf99e674c5d724cc
+K
+src/CTCI/GroupAnagrams.java,3/6/36c6d982a2d125dfae0a139e1263558db42edf7a
+C
+src/Island/App.java,3/d/3d7b2d2a6d123184ec143e63a82c1019ad694096
+F
+src/ContigSum/App.java,c/4/c4873069af95e51997bb84afef1e65e22103dbce
+G
+src/WordMatrix/App.java,6/2/6237517034cdc0186bbb46b7f6076244c2fe5900

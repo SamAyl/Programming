@@ -1,8 +1,8 @@
 
-]squid:S1126"AReplace this if-then-else statement by a single return statement.(«ÂÁÙ8Û’¯†´,
 Ssquid:S1854"8Remove this useless assignment to local variable "list".(¿¤éV8Ÿ˜Û†´,
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8µ Ÿ†´,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(«ÂÁÙ8Û’¯†´,
 rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(È†ñÛùÿÿÿÿ
-Dsquid:S1481")Remove this unused "list" local variable.(¿¤éV8Ÿ˜Û†´,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(˜Ö“ñüÿÿÿÿ8çÙ¿†´,
-qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8µ Ÿ†´,
+Dsquid:S1481")Remove this unused "list" local variable.(¿¤éV8Ÿ˜Û†´,

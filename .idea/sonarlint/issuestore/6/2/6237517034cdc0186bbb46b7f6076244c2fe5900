@@ -1,0 +1,12 @@
+
+Gsquid:S1481"+Remove this unused "answer" local variable.( ğœË8÷éÊ×¶,
+Wsquid:S1854"6Remove this useless assignment to local variable "ch".(«áÏüÿÿÿÿ8ğÛ»×¶,
+Esquid:S1481")Remove this unused "temp" local variable.(æ š†8òâå×¶,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ûÅ»±úÿÿÿÿ
+Tsquid:S1854"8Remove this useless assignment to local variable "temp".(æ š†8òâå×¶,
+Qsquid:S1854"5Remove this useless assignment to local variable "k".(©ŞîÑ8ûŞä×¶,
+Hsquid:S1481"'Remove this unused "ch" local variable.(«áÏüÿÿÿÿ8ğÛ»×¶,
+Bsquid:S1481"&Remove this unused "k" local variable.(©ŞîÑ8ûŞä×¶,
+Fsquid:S00108")Either remove or fill this block of code.(Ö½ü™8ôŸÆ×¶,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇÂÌ¡ÿÿÿÿÿ8¼½äØ¶,
+Fsquid:S1172"+Remove this unused method parameter "size".(Ôµ 8¼½äØ¶,

@@ -1,0 +1,27 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8µÈ¤çµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8õÀ·èµ,
+Nsquid:S1444"2Make this "public static currentIndex" field final(–ş˜®8Úµáäµ,
+Jsquid:S1444")Make this "public static arr" field final(¨ƒ¯Öùÿÿÿÿ8÷ÎÛäµ,
+Gsquid:S1444"+Make this "public static empty" field final(ÖúËñ8÷ÎÛäµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8”ƒ·èµ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8àÑ çµ,
+‡"squid:ClassVariableVisibilityCheck"OMake arr a static final constant or non-public and provide accessors if needed.(¨ƒ¯Öùÿÿÿÿ8÷ÎÛäµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8µÈ¤çµ,
+‹"squid:ClassVariableVisibilityCheck"XMake currentIndex a static final constant or non-public and provide accessors if needed.(–ş˜®8Úµáäµ,
+Ksquid:S1066"/Merge this if statement with the enclosing one.(‚¹È¦8ÆÒæµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8”ƒ·èµ,
+>squid:S2386"Make this member "protected".(¨ƒ¯Öùÿÿÿÿ8÷ÎÛäµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8µÈ¤çµ,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(“‚Ú®ùÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"QMake empty a static final constant or non-public and provide accessors if needed.(ÖúËñ8÷ÎÛäµ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Åı¥üÿÿÿÿ8ÓÊ¥èµ,
+Psquid:S1066"/Merge this if statement with the enclosing one.(Š®üûÿÿÿÿ8¸ãôçµ,

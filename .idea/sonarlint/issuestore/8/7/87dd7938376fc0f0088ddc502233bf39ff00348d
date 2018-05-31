@@ -1,5 +1,5 @@
 
-qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ƒ‰ÿà·,
-Vsquid:S1481"5Remove this unused "integerIterator1" local variable.(Åúáøÿÿÿÿ8¡®á·,
 rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(—Œ÷Ìıÿÿÿÿ
+Vsquid:S1481"5Remove this unused "integerIterator1" local variable.(Åúáøÿÿÿÿ8¡®á·,
 esquid:S1854"DRemove this useless assignment to local variable "integerIterator1".(Åúáøÿÿÿÿ8ƒ‰ÿà·,
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ƒ‰ÿà·,

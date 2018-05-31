@@ -33,6 +33,9 @@ public class PQueue {
             System.out.println(it.next());
         }
 
+        System.out.println(priorityQueue.poll());
+        System.out.println(priorityQueue.poll());
+
         System.out.println(priorityQueue.size());
 
 

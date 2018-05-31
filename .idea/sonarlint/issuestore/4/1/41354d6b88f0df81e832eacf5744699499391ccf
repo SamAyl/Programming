@@ -1,7 +1,7 @@
 
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(§žÓ”
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ8½ª†‡¸,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ä–Šûÿÿÿÿ8½ª†‡¸,
 S
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ãøá8¤ýö€¸,
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ä–Šûÿÿÿÿ8½ª†‡¸,
-_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ8½ª†‡¸,
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(§žÓ”
 qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8ˆŸó‚¸,

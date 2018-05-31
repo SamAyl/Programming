@@ -1,7 +1,7 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(œ•©8†‡ûÜ·,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¦‚¨úÿÿÿÿ8ÇÇ¡İ·,
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(©¸»öùÿÿÿÿ
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(´­«ıÿÿÿÿ8“µİ·,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ•©8†‡ûÜ·,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(©¸»öùÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¦‚¨úÿÿÿÿ8ÇÇ¡İ·,

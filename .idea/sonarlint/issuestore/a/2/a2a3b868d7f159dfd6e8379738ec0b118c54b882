@@ -1,6 +1,6 @@
 
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡Θªϊ
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(εφ΅½ϊÿÿÿÿ8ΣƒΒ†,
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‡Θªϊ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(µΡ8ξύ¬δ†,

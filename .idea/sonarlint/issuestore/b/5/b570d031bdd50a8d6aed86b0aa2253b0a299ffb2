@@ -1,7 +1,11 @@
 
-Dsquid:S1604"(Make this anonymous inner class a lambda(¥°ë8ğÙİª,
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Şø’
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ıèŸùÿÿÿÿ8¼¬Ï®,
+Dsquid:S1604"(Make this anonymous inner class a lambda(¥°ë8ğÙİª,
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(É„†ú8¼¬Ï®,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü„–¾8²ğ¬ıº,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü„–¾8‚÷®ıº,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıèŸùÿÿÿÿ8¼¬Ï®,

@@ -1,0 +1,10 @@
+
+Usquid:S2589!"7Remove this expression which always evaluates to "true"(ê„ªğ8ºÎˆñÅ,
+Usquid:S2589E"7Remove this expression which always evaluates to "true"(ê„ªğ8§à½ñÅ,
+Usquid:S2589G"7Remove this expression which always evaluates to "true"(Ö•±8ª‘¼ñÅ,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÔÈêùÿÿÿÿ
+Usquid:S2589G"7Remove this expression which always evaluates to "true"(Ö•±8ª‘¼ñÅ,
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(€Şä¨úÿÿÿÿ8°²£ñÅ,
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(ÆÃüÿÿÿÿ8‹¢‡ñÅ,
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(öÓü©ÿÿÿÿÿ8Ô¢ñÅ,

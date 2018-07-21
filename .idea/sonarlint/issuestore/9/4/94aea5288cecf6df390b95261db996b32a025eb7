@@ -1,5 +1,5 @@
 
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8Â•¦»,
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(€ôæ‹
 squid:S1319"rThe type of the "queue" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(çÓÈA8œíü¥»,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(€ôæ‹

@@ -1,0 +1,8 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8®ªìÚÌ,
+Nsquid:S1172)"+Remove this unused method parameter "maxX".(›ã‹›ùÿÿÿÿ8ÿ½ëÚÌ,
+Wsquid:S1854"9Remove this useless assignment to local variable "chess".(à‘ÃØ8ëŸ¿ÙÌ,
+Nsquid:S1172"+Remove this unused method parameter "maxY".(“Š™Ïüÿÿÿÿ8ÿ½ëÚÌ,
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÈ¥Y
+Hsquid:S1481"*Remove this unused "chess" local variable.(à‘ÃØ8ëŸ¿ÙÌ,

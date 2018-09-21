@@ -1,0 +1,6 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“á¨€
+Žsquid:S1319+"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(ŸæâÌ8œë“ÙÌ,
+Žsquid:S1319"pThe type of the "step" object should be an interface such as "List" rather than the implementation "LinkedList".(—Ÿˆ÷8±÷ŒÙÌ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ±íÐ8Üß¢ÙÌ,

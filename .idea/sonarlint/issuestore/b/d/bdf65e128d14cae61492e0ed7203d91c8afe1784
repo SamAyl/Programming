@@ -1,0 +1,10 @@
+
+Dsquid:S2129!"!Remove this "Integer" constructor(Ô¤ªÓøÿÿÿÿ8éçšÖÖ,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù±ÒX8¬‰£ÖÖ,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íæï·üÿÿÿÿ
+Dsquid:S2129-"!Remove this "Integer" constructor(Ü´–ãýÿÿÿÿ8éçšÖÖ,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¡ëÜ
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(û‘Þ™8åÇ˜ÖÖ,
+†squid:S41652"hRemove this useless assignment; "rightCheck" already holds the assigned value along all execution paths.(§°‰¿8åÇ˜ÖÖ,
+Šsquid:S4165&"gRemove this useless assignment; "leftCheck" already holds the assigned value along all execution paths.(¼Ý¯õýÿÿÿÿ8åÇ˜ÖÖ,

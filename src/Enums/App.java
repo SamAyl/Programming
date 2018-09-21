@@ -20,7 +20,29 @@ public class App {
         }
     }
 
-    public static void main(String[] args){
-        System.out.println(Directions.EAST.getVal());
+
+    public enum Operations{
+        INSERT("insert"),
+        UPDATE("update"),
+        DELETE("delete");
+
+        private String op;
+
+        private Operations(String op){
+            this.op = op;
+        }
+
+        public String getOp(){
+            return op;
+        }
     }
+
+    public static void main(String[] args){
+
+        System.out.println(Directions.EAST.getVal());
+        System.out.println(Operations.INSERT.getOp());
+
+
+    }
+
 }

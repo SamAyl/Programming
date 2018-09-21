@@ -1,0 +1,8 @@
+
+Csquid:S2129)" Remove this "String" constructor(…”µóúÿÿÿÿ8ú™Ž¹Ù,
+>squid:S2129 " Remove this "String" constructor(ß‰õ†8Øž¼¸Ù,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¡ëÜ
+Tsquid:S2589!"7Remove this expression which always evaluates to "true"(‘Í†8›­‘¹Ù,
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(íïÁ”ùÿÿÿÿ8Ä˜’¹Ù,

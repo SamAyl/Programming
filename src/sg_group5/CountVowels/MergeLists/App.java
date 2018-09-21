@@ -20,6 +20,7 @@ public class App {
         print(n);
     }
 
+    //Time complexity O(M+N) and even the space O(M+N)
     public static Node merge(Node n1,Node n2){
 
         if(n1==null && n2 == null){
@@ -34,6 +35,7 @@ public class App {
             return n1;
         }
 
+        //actual merging takes place
         Node str = null;
         Node head = null;
 
@@ -94,3 +96,30 @@ class Node{
         this.v = v;
     }
 }
+
+
+/*
+
+while()
+{
+
+}
+
+while(){
+
+}
+
+
+
+//a,b,c,d
+
+//a,b,c,a -> while
+//a,b,c,b -> while
+
+ */
+
+
+//mergeFunc(n1,n2)
+//mergerFun(n1.next,n2)
+//mf(n1.next.next,n2);
+//mf(n1.next.next,n2.next)

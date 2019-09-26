@@ -1,5 +1,8 @@
 package Java;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class App {
 
 
@@ -9,8 +12,11 @@ public class App {
         Test t = new Test(1);
         Test t1 = new Test(1);
 
-
        t.equals(t1);
+
+       Map<Integer,Integer> map = new HashMap<Integer,Integer>();
+
+
     }
 
 

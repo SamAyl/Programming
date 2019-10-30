@@ -1,8 +1,8 @@
 
+ssquid:S00116>"TRename this field "right_ptr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ûç‚8Íƒ¸ÏÖ,
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â›‚ôúÿÿÿÿ8Íƒ¸ÏÖ,
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ§—«ùÿÿÿÿ8ê™ØÏÖ,
-ssquid:S00116>"TRename this field "right_ptr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ûç‚8Íƒ¸ÏÖ,
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¡ëÜ
 wsquid:S00116="SRename this field "left_ptr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØûêŠøÿÿÿÿ8Íƒ¸ÏÖ,
 msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ìŸ™8Íƒ¸ÏÖ,
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â¡ëÜ
-rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â›‚ôúÿÿÿÿ8Íƒ¸ÏÖ,

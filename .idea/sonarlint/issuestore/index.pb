@@ -33,14 +33,6 @@ H
 src/HackerRank/Html.java,a/9/a971e566a258b722a8702c0b0bc5fd5233b95fcf
 G
 src/HackerRank/App.java,6/3/63767ab2a8d422e14f56d8a5bab0dda56c991029
-N
-../../Downloads/aloha6/pom.xml,4/c/4c046c6338750d2d1f3726889a518acded939a1f
-}
-M../../Downloads/aloha6/src/test/java/com/salesforce/rpt/SolutionUnitTest.java,2/9/292be3313c4d5d64a07c101a04b101ead1fd168b
-w
-G../../Downloads/aloha6/src/test/java/com/salesforce/rpt/SampleTest.java,7/6/76c56a6927e8c002231fa34eeecb132f6b6430f3
-u
-E../../Downloads/aloha6/src/main/java/com/salesforce/rpt/Solution.java,c/c/cc89a700017302fced4f453e38ef8703496861ad
 L
 src/RecursiveString/Str.java,7/9/7908b46ea6821b2d706b6ab8d639ce97874f787e
 A
@@ -130,7 +122,7 @@ R
 N
 src/Lambdas/MethodRef/App.java,8/0/80feaebebe98945819527f8b105bde06a90383b5
 A
-src/Java/App.java,c/0/c07c4f18fd6ea0a49e0d109c59935c7262c9b3e2
+src/Java/App.java,c\0\c07c4f18fd6ea0a49e0d109c59935c7262c9b3e2
 A
 src/LRU/App1.java,c/7/c7155619549bfd3079156ed72b04d6e75a9d3af9
 @
@@ -190,7 +182,7 @@ C
 K
 src/Lambdas/ForAll/App.java,9/7/97bd858085ec5943f5c50fd17237d8051e807e30
 O
-src/Amazon/AmazonSESSample.java,e/4/e4dbe6fd35f57ee4e5137cff73b26ed06a2b8783
+src/Amazon/AmazonSESSample.java,e\4\e4dbe6fd35f57ee4e5137cff73b26ed06a2b8783
 M
 src/SymmetricalTree/Node.java,6/8/6849e8da348dc1835f212bf53d1e6d83290b409f
 L
@@ -270,13 +262,13 @@ E
 B
 src/Celeb/App.java,2/9/2998cf841a9cd99f6e4adce6979e764ebdc76fc8
 G
-src/HTMLParser/App.java,f/a/facc26d0b4242713f7790af3897ab1d6cbda17e7
+src/HTMLParser/App.java,f\a\facc26d0b4242713f7790af3897ab1d6cbda17e7
 I
 src/PeekIterator/App.java,8/7/87dd7938376fc0f0088ddc502233bf39ff00348d
 O
 src/PeekIterator/Iterator1.java,f/f/ffa38abdfd640841e19f05b8afb0d48e55ecd656
 @
-src/BFS/App.java,4/7/474fab1e19ab417475097adc771246427c361680
+src/BFS/App.java,4\7\474fab1e19ab417475097adc771246427c361680
 H
 src/BSTIterator/App.java,5/f/5f0bf12ebb5b962bda922d880455ea31474eb09a
 M
@@ -288,7 +280,7 @@ M
 G
 src/WordSearch/App.java,e/9/e9e0ff3ecc39b11e5c8efcc0eb92ebcc5e49eb8c
 C
-src/Simple/App.java,2/5/252fb1e08af7a6eb875a5c1887ab07432c2a61d5
+src/Simple/App.java,2\5\252fb1e08af7a6eb875a5c1887ab07432c2a61d5
 C
 src/Flight/App.java,7/6/76b4f9e281ee5790191fb9c2fe4f18f07dfed997
 K
@@ -390,7 +382,7 @@ R
 K
 src/KickStart/KthSmall.java,8/b/8b4d322d811250b6f6d4148413d74afbb87dc602
 K
-src/KickStart/Balanced.java,1/8/180c45c5575af3ba5146ef3c81ef83c817fef9e7
+src/KickStart/Balanced.java,1\8\180c45c5575af3ba5146ef3c81ef83c817fef9e7
 I
 src/KickStart/uniVal.java,b/d/bdf65e128d14cae61492e0ed7203d91c8afe1784
 M
@@ -400,18 +392,56 @@ M
 P
  src/KickStart/MinCoinChange.java,e/3/e3102383ff13441989e216bf125de225db81c341
 F
-src/KickStart/App.java,6/e/6e8ec1f3f4293803ac25107a29147869d94740e5
+src/KickStart/App.java,6\e\6e8ec1f3f4293803ac25107a29147869d94740e5
 V
-&src/KickStart/PalindromeSubString.java,2/b/2b2dcd9220f8c7d240913a0a9e0eae7f63c82fb4
+&src/KickStart/PalindromeSubString.java,2\b\2b2dcd9220f8c7d240913a0a9e0eae7f63c82fb4
 H
-src/KickStart/Check.java,e/5/e56e5abba48a295ff6956467901466ca093dd773
+src/KickStart/Check.java,e\5\e56e5abba48a295ff6956467901466ca093dd773
 O
-src/KickStart/SprialString.java,4/7/47f6b5fdb813e0cc070c03ec9861f4e0e3f6bea9
+src/KickStart/SprialString.java,4\7\47f6b5fdb813e0cc070c03ec9861f4e0e3f6bea9
 F
-src/KickStart/Dfs.java,e/1/e172facd627de0695440f324bbb017ff398477d0
+src/KickStart/Dfs.java,e\1\e172facd627de0695440f324bbb017ff398477d0
 P
- src/KickStart/PriorityQueue.java,1/c/1c5264bccddd92ad0556260619ace4b60f5899d1
+ src/KickStart/PriorityQueue.java,1\c\1c5264bccddd92ad0556260619ace4b60f5899d1
 J
-src/KickStart/Heapify.java,3/d/3d3143967648251d239788854a92df7ad5c69e00
+src/KickStart/Heapify.java,3\d\3d3143967648251d239788854a92df7ad5c69e00
 J
-src/KickStart/reverse.java,a/d/ad0a803e2fc5d6818c694150c76f626a4b66243e
+src/KickStart/reverse.java,a\d\ad0a803e2fc5d6818c694150c76f626a4b66243e
+T
+$src/Coursera/FibonacciLastDigit.java,d\3\d3d7c9f60d2a7c8052e136c5a4d17bec9239bdc3
+E
+src/Coursera/GCD.java,d\5\d5696f77de7230f16ac13683dffb521023538209
+K
+src/GraphsCoursera/DFS.java,4\8\48a24e7398fa71772484b435c0b9e15bbcdc7a47
+D
+src/Java/Child2.java,f\2\f2f9f6bbfbcb6a63e02106e1fb341fe34696d288
+B
+src/Java/App1.java,8\5\8522b1b46d1dbc18385d18ac7f3277d0d4ef3cf7
+B
+src/Java/App2.java,e\7\e7c6871d38b73ac8cc7ad46add6cbfb3acde1e44
+O
+src/Coursera/FibonacciHuge.java,0\4\0495e3d4d4ac9407fd1d8ef0404248a8cc45d1c3
+Q
+!src/Educative/MatrixDiagonal.java,d\9\d93947ff69cd1d93bdbce45f8a301f34de2167a5
+\
+,src/CourseraDSAlgos/week2/FibonacciHuge.java,2\f\2f55167687d4a695dc7c4c33e2f9ac0dccad009e
+b
+2src/CourseraDSAlgos/week2/FibonacciPartialSum.java,6\5\6571453609871e6ec90173f6fd3dbf2349082352
+a
+1src/CourseraDSAlgos/week2/FibonacciLastDigit.java,c\3\c317b06cd531488724d1061eb9a12eb35acbb037
+d
+4src/CourseraDSAlgos/week2/FibonacciSumLastDigit.java,9\b\9b3bf44fffba3b3f6590eab3ba7e286a27afd954
+J
+src/Educative/FindNum.java,4\4\449b84b4ac91aac759333f6cc34d8bd21982bfca
+B
+src/Java/App4.java,e\c\ecd847b0ead6d36008bf0dbf7c642aeea7a08c74
+D
+src/Java/Child1.java,8\7\87157f55f8ae4f13cbedb86254ab91bf9cb08c17
+B
+src/Java/App5.java,f\3\f36c39b09e26acdd9f61db35ff9c247dfe16e941
+B
+src/Java/App3.java,1\c\1c88077cea2546d593f4459b1c2be37110bb0a2b
+A
+src/MCA2/App.java,6\9\697f3dee7acf6b4bce36cf40728121e5461ff439
+D
+src/Java/Parent.java,e\6\e66937bbce9870d9d95d8dee9c4c74b63985e494

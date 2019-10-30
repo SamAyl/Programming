@@ -2,280 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b927f1b-fbc6-4d7d-8a7a-fbc52491b593" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/180c45c5575af3ba5146ef3c81ef83c817fef9e7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/180c45c5575af3ba5146ef3c81ef83c817fef9e7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c5264bccddd92ad0556260619ace4b60f5899d1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c5264bccddd92ad0556260619ace4b60f5899d1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/252fb1e08af7a6eb875a5c1887ab07432c2a61d5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/252fb1e08af7a6eb875a5c1887ab07432c2a61d5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/292be3313c4d5d64a07c101a04b101ead1fd168b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d3143967648251d239788854a92df7ad5c69e00" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d3143967648251d239788854a92df7ad5c69e00" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/474fab1e19ab417475097adc771246427c361680" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/474fab1e19ab417475097adc771246427c361680" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47f6b5fdb813e0cc070c03ec9861f4e0e3f6bea9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47f6b5fdb813e0cc070c03ec9861f4e0e3f6bea9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c046c6338750d2d1f3726889a518acded939a1f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e8ec1f3f4293803ac25107a29147869d94740e5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e8ec1f3f4293803ac25107a29147869d94740e5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76c56a6927e8c002231fa34eeecb132f6b6430f3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad0a803e2fc5d6818c694150c76f626a4b66243e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad0a803e2fc5d6818c694150c76f626a4b66243e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c07c4f18fd6ea0a49e0d109c59935c7262c9b3e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c07c4f18fd6ea0a49e0d109c59935c7262c9b3e2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc89a700017302fced4f453e38ef8703496861ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e172facd627de0695440f324bbb017ff398477d0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e172facd627de0695440f324bbb017ff398477d0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4dbe6fd35f57ee4e5137cff73b26ed06a2b8783" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4dbe6fd35f57ee4e5137cff73b26ed06a2b8783" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/facc26d0b4242713f7790af3897ab1d6cbda17e7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/facc26d0b4242713f7790af3897ab1d6cbda17e7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Apartment/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Apartment/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Apartment/Apt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Apartment/Apt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Apartment/Floor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Apartment/Floor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Apartment/JobScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Apartment/JobScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Apartment/Lift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Apartment/Lift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Apartment/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Apartment/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BFS/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BFS/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BFS/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BFS/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BFSandDFS/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BFSandDFS/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BFSandDFS/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BFSandDFS/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BST/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BST/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BST/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BST/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BSTIterator/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BSTIterator/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/BSTIterator/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/BSTIterator/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CTCI/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CTCI/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CTCI/SortedMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CTCI/SortedMerge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Celeb/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Celeb/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Celeb/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Celeb/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Clone/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Clone/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Clone/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Clone/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CoinChange/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CoinChange/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CoinChange/FindIndexSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CoinChange/FindIndexSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Comb/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Comb/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Consecutive/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Consecutive/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Consecutive/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Consecutive/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Consecutive/App2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Consecutive/App2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ContigSum/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ContigSum/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/Fib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/Fib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/module1/week1/MaxPairWiseProduct$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/module1/week1/MaxPairWiseProduct$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/module1/week1/MaxPairWiseProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/module1/week1/MaxPairWiseProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciHuge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciPartialSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciPartialSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciSumLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciSumSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CourseraDSAlgos/week2/FibonacciSumSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Cube/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Cube/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CubeDP/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CubeDP/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/CubeDP/XY.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/CubeDP/XY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/DP/Fib1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/DP/Fib1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/DP/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/DP/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/DP/SubSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/DP/SubSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/DesignPattern/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/DesignPattern/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/DesignPattern/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/DesignPattern/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Duplicates/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Duplicates/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/EncodedStr/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/EncodedStr/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Enums/App$Directions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Enums/App$Directions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Enums/App$Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Enums/App$Operations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Enums/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Enums/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Favourites/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Favourites/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/FibPattern/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/FibPattern/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Fibonacci/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Fibonacci/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Flat/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Flat/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Flat/Apt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Flat/Apt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Flat/Lift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Flat/Lift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Flight/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Flight/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Flight/Flight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Flight/Flight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Graph/Clone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Graph/Clone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Graph/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Graph/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Greedy/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Greedy/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/HTMLParser/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/HTMLParser/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/HackerRank/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/HackerRank/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/HackerRank/Html.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/HackerRank/Html.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/HackerRank/RecursiveString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/HackerRank/RecursiveString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/HackerRank/Tag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/HackerRank/Tag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/IPAddress/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/IPAddress/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Island/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Island/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/IslandPr/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/IslandPr/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Java/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Java/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Java/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Java/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KLargest/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KLargest/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KLargest/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KLargest/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KeyPad/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KeyPad/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Balanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Balanced.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Check.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/CoinChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Dfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Dfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Heapify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Heapify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/HeightProb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/HeightProb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/JavaSyntaxCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/JavaSyntaxCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/MinCoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/MinCoinChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Msort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Msort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Node1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Node2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Node2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/PalindromeSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/PalindromeSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/PriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Qsort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Qsort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/SprialString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/SprialString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/Subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/Subset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/TargetValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/TargetValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/KickStart/uniVal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/KickStart/uniVal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Kmerge/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Kmerge/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Kmerge/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Kmerge/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Kmerge/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Kmerge/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LRU/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LRU/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LRU/KeyStatistic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LRU/KeyStatistic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LRU/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LRU/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/AlphaCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/AlphaCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Assignment/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Closure/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Closure/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Closure/Closure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Closure/Closure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Count.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/ConsumerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Exception1/ConsumerImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/ForAll/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/ForAll/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Function1/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Function1/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Function1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Function1/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Functional/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Functional/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Functional/Int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Functional/Int.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Greet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Greet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/MethodRef/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/MethodRef/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/MethodRef/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/MethodRef/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Runnable/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Runnable/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/Runnable/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/Runnable/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/This/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/This/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Lambdas/This/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Lambdas/This/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/EqualSubSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/EqualSubSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/EqualSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/EqualSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/Inorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/Inorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/KSubSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/KSubSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/LongestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/LongestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/LongestSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/MedianArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/MedianArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/Node3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/Num.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/SumTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/SumTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/TreeConstruct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/TreeConstruct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/TwoNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/TwoNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeetCode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeetCode/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeftView/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeftView/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LeftView/NodeLV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LeftView/NodeLV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LetterComb/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LetterComb/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LongestSubStrPalindrome/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LongestSubStrPalindrome/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/LookAndSay/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/LookAndSay/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/MaxNumber/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/MaxNumber/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Maze/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Maze/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Maze/MazeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Maze/MazeRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Maze/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Maze/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/MinSwap/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/MinSwap/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Msoft/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Msoft/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/NumSearch/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/NumSearch/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/NumberSumDP/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/NumberSumDP/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/NumberSumDP/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/NumberSumDP/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PID/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PID/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PID/Pid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PID/Pid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/location/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/location/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/movie/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/movie/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/theatre/Imax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/theatre/Imax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/theatre/Regular.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/theatre/Regular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/theatre/Theatre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/theatre/Theatre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/POC/theatre/TheatreFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/POC/theatre/TheatreFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PQueue/PQueue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PQueue/PQueue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PQueue/PQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PQueue/PQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PalindromeProduct/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PalindromeProduct/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PeekIterator/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PeekIterator/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PeekIterator/Iterator1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PeekIterator/Iterator1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PeekIterator/TestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PeekIterator/TestApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Permu/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Permu/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PermutateII/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PermutateII/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Permutations/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Permutations/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PredictWinner/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PredictWinner/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PredictWinner/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PredictWinner/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/PriQue/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/PriQue/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Prod/Diff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Prod/Diff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Prod/Prooduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Prod/Prooduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Queen/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Queen/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/RBT/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/RBT/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/RBT/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/RBT/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/RBT/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/RBT/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/RecursionSum/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/RecursionSum/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/RecursiveString/Str.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/RecursiveString/Str.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ReverseWord/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ReverseWord/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Rot90/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Rot90/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SerializeAndDeserialize/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SerializeAndDeserialize/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SerializeAndDeserialize/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SerializeAndDeserialize/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Simple/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Simple/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Simple/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Simple/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Skies/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Skies/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SlidingWinProb/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SlidingWinProb/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SlidingWindow/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SlidingWindow/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SlidingWindow/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SlidingWindow/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Sorting/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Sorting/QSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Sorting/QSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SpanningTree/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SpanningTree/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SpanningTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SpanningTree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Steps/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Steps/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/StepsAgain/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/StepsAgain/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SubSequence/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SubSequence/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SubSequence/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SubSequence/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SubSequence/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SubSequence/Match.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SymmetricalTree/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SymmetricalTree/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SymmetricalTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SymmetricalTree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/SymmetricalTree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/SymmetricalTree/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Thread/App1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Thread/App1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Thread/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Thread/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Thread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Thread/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Thread/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Thread/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Threading/ThreadStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Threading/ThreadStart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Threading/Volatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Threading/Volatile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Threads/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Threads/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Threads/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Threads/Run.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ThreeSum/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ThreeSum/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Tiles/App$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Tiles/App$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Tiles/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Tiles/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Tiles/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Tiles/App1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/TinyURL/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/TinyURL/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/TinyURL/TinyUrl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/TinyURL/TinyUrl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Tree/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Tree/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Tree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Tree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Tree/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Triangle/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Triangle/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ValidParentheses/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ValidParentheses/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Volume/Vol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Volume/Vol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/WordMatrix/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/WordMatrix/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/WordSearch/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/WordSearch/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/Zero/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/Zero/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ZigZagBT/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ZigZagBT/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ZigZagBT/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ZigZagBT/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ZigZagIterator/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ZigZagIterator/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/ZigZagIterator/ZigZag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/ZigZagIterator/ZigZag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ArrStack/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ArrStack/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ArrStack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ArrStack/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/CloneStack/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/CloneStack/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/CopyStack/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/CopyStack/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/InsertedSorted/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/InsertedSorted/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/InsertedSorted/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/InsertedSorted/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/IsPalindrome/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/IsPalindrome/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/MergeLists/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/MergeLists/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/MergeLists/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/MergeLists/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/RemoveDuplicates/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/RemoveDuplicates/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/RemoveDuplicates/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/RemoveDuplicates/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ReverseQueue/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ReverseQueue/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ReverseStack/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/ReverseStack/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/SplitListOddEven/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/SplitListOddEven/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/SplitListOddEven/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos/sg_group5/CountVowels/SplitListOddEven/Node.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../Downloads/aloha6/target/" />
@@ -312,13 +39,14 @@
           <entry key="project.closed" value="10" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -368,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MCA2/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="476">
               <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -380,7 +108,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Coursera/MultiplicationPolynomial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="162">
               <caret line="42" column="101" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="101" />
             </state>
           </provider>
@@ -536,10 +264,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1168" />
+    <option name="x" value="1910" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1169" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -547,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -570,7 +299,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -933,6 +661,7 @@
       <workItem from="1571938763006" duration="1338000" />
       <workItem from="1572025888269" duration="3993000" />
       <workItem from="1572368686778" duration="5246000" />
+      <workItem from="1572394899147" duration="231000" />
     </task>
     <servers />
   </component>
@@ -969,13 +698,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="699900000" />
+    <option name="totallyTimeSpent" value="700131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="934" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" weight="0.20469798" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.20469798" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -992,7 +720,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.504884" side_tool="true" weight="0.41190198" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32793018" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32793018" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32793018" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3250444" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32905483" />
@@ -1476,6 +1204,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MCA2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/App2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1514,19 +1252,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MCA2/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Coursera/MultiplicationPolynomial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="162">
           <caret line="42" column="101" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="101" />
         </state>
       </provider>

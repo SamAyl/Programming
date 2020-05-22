@@ -5,8 +5,8 @@ public class MultiplicationPolynomial {
     public static void main(String[] args) {
 
         MultiplicationPolynomial mp = new MultiplicationPolynomial();
-        int[] a = {1,1};
-        int[] b = {1,1};
+        int[] a = {1,2,3,4};
+        int[] b = {1,1,1,1};
 
         int[] c = mp.mulPol(a,b);
         System.out.println(c.length);
@@ -20,6 +20,11 @@ public class MultiplicationPolynomial {
             return ans;
         }
 
+        if(a.length <b.length){
+            a = setToSameLength(b,a);
+        }else if(a.length > b.length){
+            b = setToSameLength(a,b);
+        }
         int lSize = a.length/2;
         int rSize = a.length - a.length/2;
 
@@ -40,7 +45,29 @@ public class MultiplicationPolynomial {
        int[] c1 = mulPol(E1,D0);
        int[] d1 = mulPol(E0,D1);
 
-        return add(moveRight(a1,a.length),moveLeft(b1,(a.length)),multiply_X(add(c1,d1,null),lSize+1));
+       int[] res = new int[a.length + b.length-1];
+
+
+
+         int moveFactor1 = 0;
+         int moveFactor2 = 0;
+         if(a.length%2==0){
+            moveFactor1 = a.length;
+            moveFactor2 = a.length/2;
+
+         }else {
+             moveFactor1 = a.length-1;
+             moveFactor2 = (a.length)/2;
+         }
+
+
+
+        add(res,b1,moveFactor1);
+        add(res,c1,moveFactor2 );
+        add(res,d1,moveFactor2 );
+        add(res,a1,0);
+
+        return res;
 
     }
 
@@ -61,18 +88,11 @@ public class MultiplicationPolynomial {
         return temp;
     }
 
-    private int[] add(int[] a,int [] b,int[] c){
+    private void add(int[] a,int [] b,int index){
 
-        if(c==null){
-            c=new int[a.length];
+        for(int i = 0;i<b.length;i++){
+            a[i+index]+=b[i];
         }
-        int[] ans = new int[a.length];
-
-        for(int i = 0;i<a.length;i++){
-            ans[i] = a[i] + b[i] + c[i];
-        }
-
-        return ans;
     }
 
 
@@ -85,4 +105,14 @@ public class MultiplicationPolynomial {
     }
 
 
+    private int[] setToSameLength(int[] a,int[] b) {
+
+        int[] temp = new int[a.length];
+        for (int i = 0; i < b.length; i++) {
+            temp[i] = b[i];
+        }
+
+        return temp;
+
+    }
 }

@@ -1,7 +1,6 @@
 package Java;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class App {
 
@@ -16,7 +15,14 @@ public class App {
 
        Map<Integer,Integer> map = new HashMap<Integer,Integer>();
 
+       List<Integer> list = new ArrayList<>();
 
+       for(Integer i : list){
+           System.out.println("am here");
+       }
+
+
+      // Set<Integer> test = new HashSet<>()
     }
 
 

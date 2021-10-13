@@ -10,7 +10,7 @@ public class Node {
 
     @Override
     public String toString() {
-        return "Node{" +
+        return "node{" +
                 "val=" + val +
                 '}';
     }

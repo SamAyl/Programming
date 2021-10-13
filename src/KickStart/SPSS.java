@@ -124,7 +124,7 @@ class Distance implements Comparable<Distance>{
 
     @Override
     public String toString() {
-        String s = "Node "+node + "   " + "Distance "+ distance;
+        String s = "node "+node + "   " + "Distance "+ distance;
         return s;
     }
 

@@ -3,7 +3,7 @@ package Educative;
 
 public class DoublyLinkedList<T> {
 
-    //Node inner class for DLL
+    //node inner class for DLL
     public class Node {
         public T data;
         public Node nextNode;

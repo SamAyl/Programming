@@ -48,7 +48,7 @@ public class App {
 
     public static void removeDuplicates(Node head){
 
-       // Node temp = head;
+       // node temp = head;
         Node prev = head;
         head = head.next;
 

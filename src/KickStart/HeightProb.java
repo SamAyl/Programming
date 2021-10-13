@@ -10,6 +10,6 @@ public class HeightProb {
     }
 }
 
-//class Node{
-//    List<Node> child = new ArrayList<>();
+//class node{
+//    List<node> child = new ArrayList<>();
 //}
